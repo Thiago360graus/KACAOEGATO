@@ -1,0 +1,36 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = KACAO&GATO
+
+## Media
+
+### Title
+panorama_3D840359_3413_86FF_41C4_10B9A6130645.label = 9
+panorama_3D840552_340C_82CC_41A3_F602F225534E.label = 13
+panorama_3D8406D7_3413_8FF4_41C8_2B35F779CA24.label = 3
+panorama_3D840BAA_3413_865C_41C3_7FD36ABAAB89.label = 11
+panorama_3D840FDF_3413_9DF4_41B1_A442482C1B47.label = 5
+panorama_3D841861_340C_82CC_41C5_B4D4EF2D1A39.label = 17
+panorama_3D841EC0_340C_9FCC_4166_B6679C2D3630.label = 15
+panorama_3D844177_340C_82B4_41C1_2218C49209B5.label = 14
+panorama_3D84484A_340C_82DC_41C0_C73787A30745.label = 12
+panorama_3D844C81_3413_824C_41B6_E140CD027EAF.label = 6
+panorama_3D845B3D_340C_86B4_4134_13F7637C8968.label = 16
+panorama_3D846393_3413_864C_41B8_3E2473E069C8.label = 4
+panorama_3D84793D_3413_82B7_41A0_D72DE459F9A6.label = 7
+panorama_3D84CF6C_3413_9ED4_4129_7E6911DFC7C0.label = 10
+panorama_3D84D786_3413_8E55_4173_27E0A3BF0F6B.label = 8
+panorama_3E052F42_3414_9ECD_41AF_7E27891863A6.label = 1
+
+## Action
+
+### URL
+LinkBehaviour_53C807DE_5B3E_CB2D_41C8_95EDF9FA2FD6.source = https://www.facebook.com/JohnnieJackBar
+LinkBehaviour_53C827DE_5B3E_CB2D_41C9_6DA38C777CFB.source = https://www.instagram.com/johnniejackbar/
+LinkBehaviour_53C857DE_5B3E_CB2D_41D2_2B5700618F3D.source = //www.youtube.com/embed/kCrHIM-LT1E
+LinkBehaviour_53C867DE_5B3E_CB2D_41D4_519F9B0A0B43.source = https://api.whatsapp.com/send/?phone=5553991244664
