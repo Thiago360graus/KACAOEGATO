@@ -33,3 +33,4 @@ panorama_5BC47BF5_48F0_5648_41C1_5CB71E42C226.label = 14
 LinkBehaviour_53C807DE_5B3E_CB2D_41C8_95EDF9FA2FD6.source = https://www.facebook.com/kacaoegatovet
 LinkBehaviour_53C827DE_5B3E_CB2D_41C9_6DA38C777CFB.source = https://www.instagram.com/kacaoegato/
 LinkBehaviour_53C867DE_5B3E_CB2D_41D4_519F9B0A0B43.source = https://api.whatsapp.com/send?phone=5511944929984
+LinkBehaviour_5CDB47DE_4F07_2CC7_41C8_349D35AF11E7.source = https://play.google.com/store/apps/details?id=com.kacaoandgato.app
